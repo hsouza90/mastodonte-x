@@ -7,7 +7,7 @@
 
 #### mastodonte X
 
-![mastodonte X](https://raw.githubusercontent.com/blackmoral/mastodonte-x/master/preview/mastodontex.png)
+![mastodonte X](https://raw.githubusercontent.com/blackmoral/mastodonte-x/master/preview/mastodonte-x.png)
 
 #### mastodonte White X
 
