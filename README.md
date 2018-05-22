@@ -36,7 +36,7 @@
 ### Atualizações
 
 **2.4.0rc5**
-- Correção dasnovas abas Toots e Mídia;
+- Correção das novas abas Toots e Mídia;
 - Colunas mais largas melhorando a visualização do conteúdo;
 - Nova fonte personalizada, Montserrat;
 - Correção dos avatares arredondados no perfil dos usuários;
