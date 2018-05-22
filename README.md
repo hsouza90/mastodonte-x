@@ -13,7 +13,7 @@
 
 ![mastodonte White X](https://raw.githubusercontent.com/blackmoral/mastodonte-x/master/preview/mastodonte-white-x.png)
 
-#### mastodon X B/W
+#### mastodonte X B/W
 
 ![mastodonte X B/W](https://raw.githubusercontent.com/blackmoral/mastodonte-x/master/preview/mastodonte-x-bw.png)
 
