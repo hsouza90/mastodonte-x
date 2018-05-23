@@ -5,9 +5,9 @@
 
 ### Instalação do Styl-us
 Após instalar a extensão, basta clicar no botão ao lado do nome do tema correspondente. :satisfied:
-1. [Chrome Web Store](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) (or [beta](https://chrome.google.com/webstore/detail/stylus-beta/apmmpaebfobifelkijhaljbmpcgbjbdo))
-2. [Firefox add-ons](https://addons.mozilla.org/firefox/addon/styl-us/) (or [beta](https://addons.mozilla.org/en-US/firefox/addon/styl-us/versions/beta))
-3. [Opera add-ons](https://addons.opera.com/extensions/details/stylus/)
+1. [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/styl-us/) **(Recomendado)**
+2. [Chrome Web Store](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
+3. [Opera Add-ons](https://addons.opera.com/extensions/details/stylus/)
 
 ### Previsualização das variações
 
