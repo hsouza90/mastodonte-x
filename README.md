@@ -1,7 +1,7 @@
 
 # mastodonte X
 
-**mastodonte X** é um tema flat para a rede Mastodon, inspirado no tema noturno do Telegram X e no tema [mastodon-flat-css](https://github.com/trwnh/mastodon-flat-css). Totalmente compatível com as atualizações 2.4.0rc5, com três variações de cores, **mastodonte X**, **mastodonte X Mínimo**, **mastodonte X Mono** e **mastodonte X Relax**.
+**mastodonte X** é um tema flat para a rede Mastodon, inspirado no tema noturno do Telegram X e no tema [mastodon-flat-css](https://github.com/trwnh/mastodon-flat-css). Totalmente compatível com as atualizações 2.4.0rc5, com quatro variações de cores, **mastodonte X**, **mastodonte X Mínimo**, **mastodonte X Mono** e **mastodonte X Relax**.
 
 ### Instalação do Styl-us
 Após instalar a extensão, basta clicar no botão ao lado do nome do tema correspondente. :satisfied:
