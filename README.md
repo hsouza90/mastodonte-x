@@ -1,7 +1,7 @@
 
 # mastodonte X
 
-**mastodonte X** é um tema flat para a rede Mastodon, inspirado no tema noturno do Telegram X e no tema [mastodon-flat-css](https://github.com/trwnh/mastodon-flat-css). Totalmente compatível com as atualizações 2.4.0rc5, com três variações de cores, **mastodonte X**, **mastodonte White X** e **mastodonte X B/W**.
+**mastodonte X** é um tema flat para a rede Mastodon, inspirado no tema noturno do Telegram X e no tema [mastodon-flat-css](https://github.com/trwnh/mastodon-flat-css). Totalmente compatível com as atualizações 2.4.0rc5, com três variações de cores, **mastodonte X**, **mastodonte X Mínimo** e **mastodonte X Mono**.
 
 ### Instalação do Styl-us
 Após instalar a extensão, basta clicar no botão ao lado do nome do tema correspondente. :satisfied:
@@ -15,13 +15,13 @@ Após instalar a extensão, basta clicar no botão ao lado do nome do tema corre
 
 ![mastodonte X](https://raw.githubusercontent.com/blackmoral/mastodonte-x/master/preview/mastodonte-x.png)
 
-# mastodonte White X [![Instalar mastodonte White X via Stylus](https://img.shields.io/badge/Instalar%20mastodonte%20White%20X%20via-Stylus-00adad.svg)](https://raw.githubusercontent.com/blackmoral/mastodonte-x/master/mastodonte-white-x.user.css)
+# mastodonte X Mínimo [![Instalar mastodonte X Mínimo via Stylus](https://img.shields.io/badge/Instalar%20mastodonte%20X%20Minimo%20via-Stylus-00adad.svg)](https://raw.githubusercontent.com/blackmoral/mastodonte-x/master/mastodonte-x-minimo.user.css)
 
-![mastodonte White X](https://raw.githubusercontent.com/blackmoral/mastodonte-x/master/preview/mastodonte-white-x.png)
+![mastodonte X Mínimo](https://raw.githubusercontent.com/blackmoral/mastodonte-x/master/preview/mastodonte-x-minimo.png)
 
-# mastodonte X B/W [![Instalar mastodonte X B/W via Stylus](https://img.shields.io/badge/Instalar%20mastodonte%20X%20B/W%20via-Stylus-00adad.svg)](https://raw.githubusercontent.com/blackmoral/mastodonte-x/master/mastodonte-x-bw.user.css)
+# mastodonte X Mono [![Instalar mastodonte X Mono via Stylus](https://img.shields.io/badge/Instalar%20mastodonte%20X%20Mono%20via-Stylus-00adad.svg)](https://raw.githubusercontent.com/blackmoral/mastodonte-x/master/mastodonte-x-mono.user.css)
 
-![mastodonte X B/W](https://raw.githubusercontent.com/blackmoral/mastodonte-x/master/preview/mastodonte-x-bw.png)
+![mastodonte X Mono](https://raw.githubusercontent.com/blackmoral/mastodonte-x/master/preview/mastodonte-x-mono.png)
 
 # mastodonte X Relax [![Instalar mastodonte X Relax via Stylus](https://img.shields.io/badge/Instalar%20mastodonte%20X%20Relax%20via-Stylus-00adad.svg)](https://raw.githubusercontent.com/blackmoral/mastodonte-x/master/mastodonte-x-relax.user.css)
 
