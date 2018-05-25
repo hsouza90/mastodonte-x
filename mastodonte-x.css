@@ -63,6 +63,7 @@ Variações dos temas
 --textMuted: #ccc;
 --textHead: #fff;
 --accent: #007acc;
+--accentDark: #0061a3;
 }
 */
 
@@ -318,6 +319,26 @@ body.app-body,
 /*----------------
 Melhorias & Correções
 ----------------*/
+
+/* Hashtags tagged mastodonte X 1.2.1 */
+.hashtag {    
+    display: inline-block;
+    padding: 0.30em 0.5em;
+    font-size: 75%;
+    font-weight: bold;
+    line-height: 0.9;
+    border-radius: 5px;
+    color: #fff!important;
+    background-color: var(--accentDark);
+}
+
+a>.ellipsis:before {
+    margin-right: 5px;
+    text-decoration: none;
+    content: "🔗";
+    font-size: 12px;
+    color: var(--text);
+}
 
 /* Colunas em tamanho total da tela, mais espaço de visualização */
 .column {
