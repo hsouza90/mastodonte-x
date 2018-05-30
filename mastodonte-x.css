@@ -111,10 +111,6 @@ body,
 .account__section-headline a.active,
 .account__action-bar__tab strong,
 .navigation-bar strong,
-
-/*.compose-form .autosuggest-textarea__textarea,*/
-
-/*.compose-form .spoiler-input__input,*/
 .compose-form .compose-form__modifiers,
 .compose-form .compose-form__buttons-wrapper .character-counter__wrapper .character-counter,
 .reply-indicator__display-name,
@@ -217,7 +213,6 @@ body,
 .icon-button.disabled:hover {
     color: var(--accent)
 }
-
 /*---------
 Definição dos temas
 ---------*/
@@ -228,10 +223,6 @@ Definição dos temas
 .search-results__header,
 .drawer__inner.darker,
 .drawer__header a:hover,
-
-/*.compose-form .autosuggest-textarea__textarea,*/
-
-/*.compose-form .spoiler-input__input,*/
 .compose-form .compose-form__modifiers,
 .privacy-dropdown__option,
 .column > .scrollable,
@@ -285,8 +276,6 @@ body.app-body,
 .column-header__button.active,
 .column-header__collapsible-inner,
 .column-inline-form,
-
-/*.compose-form__publish:hover .button,*/
 .status__content .status__content__spoiler-link,
 .list-editor h4,
 .keyboard-shortcuts kbd,
@@ -315,11 +304,9 @@ body.app-body,
 .drawer__inner__mastodon {
     background: transparent
 }
-
 /*----------------
 Melhorias & Correções
 ----------------*/
-
 /* Hashtags tagged, mastodonte X 1.2.1 */
 .hashtag {
     display: inline-block;
@@ -352,7 +339,7 @@ Melhorias & Correções
     height: 30px!important;
 }
 /* Novo thumbnail com visualização completa da imagem, mastodonte X 1.2.1 */
-.media-gallery__item-thumbnail img { 
+.media-gallery__item-thumbnail img {
     /*object-fit: scale-down;*/
 }
 .media-gallery__item {
@@ -362,8 +349,9 @@ Melhorias & Correções
     height: 60%!important;
 }
 /* Thumbnail fix .gif */
-.media-gallery__item-gifv-thumbnail, .media-gallery__item-gifv-thumbnail video {
-    object-fit: scale-down;    
+.media-gallery__item-gifv-thumbnail,
+.media-gallery__item-gifv-thumbnail video {
+    object-fit: scale-down;
     height: 100%;
 }
 .media-gallery__item-gifv-thumbnail {
@@ -372,16 +360,16 @@ Melhorias & Correções
     width: auto;
     max-width: 100%;
 }
-/* Lightbox mais escuro para visualização de imagens, mastodonte X 1.2.1 */
+/* Novo lightbox para visualização de imagens, mastodonte X 1.2.1 */
 .zoomable-image {
-	position: fixed;
-	z-index: 999;
-	width: 100%;
-	height: 100%;
-	text-align: center;
-	top: 0;
-	left: 0;
-	background: rgba(0,0,0,0.8);
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.8);
 }
 /* Colunas em tamanho total da tela, mais espaço de visualização */
 .column {
@@ -400,7 +388,6 @@ Melhorias & Correções
 .public-timeline__section-headline a.active::before {
     border-color: transparent transparent var(--bg);
 }
-
 /* Exibição de nome e usuário */
 .display-name {
     overflow: visible;
@@ -409,7 +396,6 @@ Melhorias & Correções
 .account__avatar-wrapper {
     margin-left: 0px;
 }
-
 /* Avatares com bordas arredondadas */
 .card .avatar img,
 .activity-stream .status.light .status__avatar img,
@@ -421,7 +407,6 @@ Melhorias & Correções
 .account__header__avatar {
     border-radius: 10%!important;
 }
-
 /* mastodon .svg */
 .drawer__inner__mastodon > img {
     position: fixed;
@@ -430,7 +415,6 @@ Melhorias & Correções
     height: 180px;
     z-index: -1
 }
-
 /* Git */
 .drawer__inner__mastodon:after {
     position: absolute;
@@ -439,13 +423,11 @@ Melhorias & Correções
     font-size: 10px;
     color: var(--text);
 }
-
 /* Transparência de imagens nos modais */
 .media-modal canvas,
 .media-modal img {
     background: none
 }
-
 /* Correção do alerta neon de novos toots */
 .column-header.active .column-header__icon {
     text-shadow: 0 0 10px var(--accent);
@@ -456,7 +438,6 @@ Melhorias & Correções
 .column-header__wrapper.active:before {
     background: radial-gradient(ellipse, var(--accent) 0, rgba(0, 0, 0, 0) 60%);
 }
-
 /* Melhorias na visualização de contas de usuários */
 .account__header .account__header__fields dt,
 .account__header .account__header__fields dd {
@@ -469,7 +450,6 @@ Melhorias & Correções
     color: var(--textMuted);
     font-weight: 700
 }
-
 /* Correção dos novos campos e modais da atualização 2.4.0 e 2.4.0rc5 */
 .account__header {
     background-size: cover !important;
@@ -500,7 +480,6 @@ Melhorias & Correções
 .status.light .status__display-name {
     color: var(--textBold);
 }
-
 /* Bordas do campo @handle */
 .account__header .account__header__username {
     display: inline-block;
@@ -510,12 +489,10 @@ Melhorias & Correções
     background: rgba(0, 0, 0, 0.5);
     color: #ccc;
 }
-
 /* adjust margins to account for padding */
 .account__header__content p {
     margin-bottom: 16px;
 }
-
 /* Correção da transparência no botão seguir */
 .account--action-button {
     background: rgba(0, 0, 0, 0.5);
@@ -525,7 +502,6 @@ Melhorias & Correções
 .account--action-button .icon-button {
     color: #fff
 }
-
 /* -------------------------------
 * toots in columns button recolor,
 * but more complicated bc of
