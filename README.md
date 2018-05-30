@@ -52,6 +52,13 @@ Após instalar a extensão, basta clicar no botão ao lado do nome do tema corre
 *v1.2.0*
 - Novo tema **mastodonte X Relax**
 
+*v1.2.1*
+- Hashtags formato badge (Bootstrap 4);
+- Caixa de emojis maior (like Pinafore);
+- Thumbnails de mídia com imagem inteira;
+- Zoom das mídias com overlay escuro;
+- Correção das thumbnails com .gif;
+
 # Mastodon(te)
 Instância moderada com um foco em usuários do Brasil, mas usuários de outros lugares (e outras línguas) são bem vindos.
 :zap: [@umpalumpa@masto.donte.com.br](https://masto.donte.com.br/@umpalumpa)
