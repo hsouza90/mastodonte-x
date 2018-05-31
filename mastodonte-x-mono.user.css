@@ -326,7 +326,6 @@ Melhorias & Correções
 }
 /* Novo lightbox para visualização de imagens, mastodonte X 1.2.1 */
 .zoomable-image {
-    position: fixed;
     z-index: 999;
     width: 100%;
     height: 100%;
