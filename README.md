@@ -43,6 +43,9 @@ Após instalar a extensão, basta clicar no botão ao lado do nome do tema corre
 
 ### Atualizações
 *v1.0.0*
+ - Lançamento do repositório;
+ 
+*v1.1.0*
 - Compativel com a versão **2.4.0rc5**
 - Correção das novas abas Toots e Mídia;
 - Colunas mais largas melhorando a visualização do conteúdo;
