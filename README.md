@@ -59,6 +59,9 @@ Após instalar a extensão, basta clicar no botão ao lado do nome do tema corre
 - Zoom das mídias com overlay escuro;
 - Correção das thumbnails com .gif;
 
+*v1.2.2*
+- Correção da classe zoomable-image, bug na visualização de mídia com mais de uma imagem;
+
 # Mastodon(te)
 Instância moderada com um foco em usuários do Brasil, mas usuários de outros lugares (e outras línguas) são bem vindos.
 :zap: [@umpalumpa@masto.donte.com.br](https://masto.donte.com.br/@umpalumpa)
